@@ -1,6 +1,7 @@
 # tugas_1
 
 A new Flutter project.
+![Tampilan Depan](assets/image/front.png)
 
 ## Getting Started
 
